@@ -3,7 +3,7 @@ cd scripts
 
 bash scripts/setup/android_build_env.sh
 
-cd ~/
+cd ..
 rm -rf scripts
 
 # Git Config
