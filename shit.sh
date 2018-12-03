@@ -1,7 +1,9 @@
-git clone https://github.com/akhilnarang/scripts.git
+git clone https://github.com/akhilnarang/scripts.git scripts 
+cd scripts
 
 bash scripts/setup/android_build_env.sh
 
+cd ~/
 rm -rf scripts
 
 # Git Config
