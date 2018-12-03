@@ -1,4 +1,4 @@
-git clone https://github.com/akhilnarang/scripts.git scripts 
+git clone https://github.com/akhilnarang/scripts.git
 cd scripts
 
 bash scripts/setup/android_build_env.sh
